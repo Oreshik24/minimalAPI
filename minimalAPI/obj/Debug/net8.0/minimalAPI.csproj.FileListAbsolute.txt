@@ -30,3 +30,4 @@ C:\University\ASP.NET\SROGIT\minimalAPI\minimalAPI\bin\Debug\net8.0\Swashbuckle.
 C:\University\ASP.NET\SROGIT\minimalAPI\minimalAPI\obj\Debug\net8.0\minimalAPI.csproj.AssemblyReference.cache
 C:\University\ASP.NET\SROGIT\minimalAPI\minimalAPI\obj\Debug\net8.0\minimalAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\University\ASP.NET\SROGIT\minimalAPI\minimalAPI\obj\Debug\net8.0\minimalAPI.csproj.CopyComplete
+C:\University\ASP.NET\SROGIT\minimalAPI\minimalAPI\obj\Debug\net8.0\minimalAPI.sourcelink.json
